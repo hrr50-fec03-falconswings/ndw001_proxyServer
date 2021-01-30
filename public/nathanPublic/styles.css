@@ -8,7 +8,7 @@
   src: url('Assets/bogle_font/OTF/Bogle-Bold.otf');
 }
 
-#app {
+#render {
   display: block;
   margin-left: auto;
   margin-right: auto;
